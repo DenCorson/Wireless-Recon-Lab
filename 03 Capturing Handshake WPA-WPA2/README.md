@@ -8,8 +8,8 @@ This guide outlines hows to capture a WPA/WPA2 handshake in order to attempt to 
 - Kali Linux
 - External wireless adapter
 * airmon-ng - Enables monitor mode for adapter
-* airodump-ng - Scans WPS-enabled access points
-* aireplay-ng - Tools for WPS Pin
+* airodump-ng - Captures wireless packets and client activity
+* aireplay-ng - Sends deauthentication packets to force handshake
 
   ### Check for adapter
     sudo iwconfig
