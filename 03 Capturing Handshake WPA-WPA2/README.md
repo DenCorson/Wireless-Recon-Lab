@@ -2,7 +2,7 @@
 
 This guide outlines hows to capture a WPA/WPA2 handshake in order to attempt to crack the pre-shared key using a wordlist.
 
-##This guide is for educational purposes only. Unauthorized access to networks is illegal and unethical. Use only on networks you own or have explicit permission to test.
+## This guide is for educational purposes only. Unauthorized access to networks is illegal and unethical. Use only on networks you own or have explicit permission to test.
 
 ## Tools
 - Kali Linux
