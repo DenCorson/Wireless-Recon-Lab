@@ -15,9 +15,13 @@ string.
 
   ## PARAMETERS
   (min): Minimum length of the passwords
+ 
   (max): Maximum lenth of the passwords
+  
   (charset): Characters to use (e.g abcd)
+ 
   -o: Output file to save the wordlist
+ 
   -t (Optional) Pattern template for more words  
           follow pattern with
               (@) Lowercase letters (a-z)
