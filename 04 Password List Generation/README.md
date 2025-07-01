@@ -11,7 +11,7 @@ string.
 
 
 ## Open Command Terminal in Linux
-  sudo crunch <min> <max> <charset> -o <file name>   [-t <pattern>]
+  sudo crunch <min> <max> <charset> -o <file name>   -t <pattern>
 
   <min>: Minimum length of the passwords
   <max>: Maximum lenth of the passwords
