@@ -11,18 +11,18 @@ string.
 
 
 ## Open Command Terminal in Linux
-  sudo crunch <min> <max> <charset> -o <file name>   [-t <pattern>]
+  sudo crunch (min) (max) (charset) -o (file name)   [-t (pattern)]
 
-  <min>: Minimum length of the passwords
-  <max>: Maximum lenth of the passwords
-  <charset>: Characters to use (e.g abcd)
+  (min): Minimum length of the passwords
+  (max): Maximum lenth of the passwords
+  (charset): Characters to use (e.g abcd)
   -o: Output file to save the wordlist
   -t (Optional) Pattern template for more words  
           follow pattern with
-              <@> Lowercase letters (a-z)
-              <,> Uppercase letters (A-Z)
-              <%> Numbers (0-9)
-              <^> Special characters
+              (@) Lowercase letters (a-z)
+              (,) Uppercase letters (A-Z)
+              (%) Numbers (0-9)
+              (^) Special characters
         <!-- the min is the minumum amount of characters which will be generated/cycled through in the string AND max will be maximum chars generated from string-->
 
 ## After List is generated open up file
