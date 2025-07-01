@@ -11,7 +11,7 @@ string.
 
 
 ## Open Command Terminal in Linux
-  sudo crunch (min) (max) (string) -o (file name)   (@@@@, is optional for chars that you know the position for sure)
+  sudo crunch (min) (max) (string) -o (file name)   (-t, is optional for patterns that you know the position for sure @lowercase, %numbers 0-9, ^special chars , ,)
         <!-- the min is the minumum amount of characters which will be generated/cycled through in the string AND max will be maximum chars generated from string-->
 
 ## After List is generated open up file
